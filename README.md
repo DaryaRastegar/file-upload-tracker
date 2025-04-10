@@ -43,4 +43,4 @@ By setting up proper logging and testing the polling mechanism step-by-step, I w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DaryaRastegar/file-upload-tracker.git
